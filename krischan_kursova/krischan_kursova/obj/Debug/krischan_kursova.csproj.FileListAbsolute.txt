@@ -1,0 +1,29 @@
+c:\users\ivo\documents\visual studio 2015\Projects\krischan_kursova\krischan_kursova\bin\Debug\krischan_kursova.exe.config
+c:\users\ivo\documents\visual studio 2015\Projects\krischan_kursova\krischan_kursova\bin\Debug\krischan_kursova.exe
+c:\users\ivo\documents\visual studio 2015\Projects\krischan_kursova\krischan_kursova\bin\Debug\krischan_kursova.pdb
+c:\users\ivo\documents\visual studio 2015\Projects\krischan_kursova\krischan_kursova\obj\Debug\krischan_kursova.csprojResolveAssemblyReference.cache
+c:\users\ivo\documents\visual studio 2015\Projects\krischan_kursova\krischan_kursova\obj\Debug\MainWindow.g.cs
+c:\users\ivo\documents\visual studio 2015\Projects\krischan_kursova\krischan_kursova\obj\Debug\App.g.cs
+c:\users\ivo\documents\visual studio 2015\Projects\krischan_kursova\krischan_kursova\obj\Debug\krischan_kursova_MarkupCompile.cache
+c:\users\ivo\documents\visual studio 2015\Projects\krischan_kursova\krischan_kursova\obj\Debug\krischan_kursova_MarkupCompile.lref
+c:\users\ivo\documents\visual studio 2015\Projects\krischan_kursova\krischan_kursova\obj\Debug\MainWindow.baml
+c:\users\ivo\documents\visual studio 2015\Projects\krischan_kursova\krischan_kursova\obj\Debug\krischan_kursova.g.resources
+c:\users\ivo\documents\visual studio 2015\Projects\krischan_kursova\krischan_kursova\obj\Debug\krischan_kursova.Properties.Resources.resources
+c:\users\ivo\documents\visual studio 2015\Projects\krischan_kursova\krischan_kursova\obj\Debug\krischan_kursova.csproj.GenerateResource.Cache
+c:\users\ivo\documents\visual studio 2015\Projects\krischan_kursova\krischan_kursova\obj\Debug\krischan_kursova.exe
+c:\users\ivo\documents\visual studio 2015\Projects\krischan_kursova\krischan_kursova\obj\Debug\krischan_kursova.pdb
+c:\users\ivo\documents\visual studio 2015\Projects\krischan_kursova\krischan_kursova\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Dev\krischan_kursova\krischan_kursova\bin\Debug\krischan_kursova.exe.config
+C:\Dev\krischan_kursova\krischan_kursova\obj\Debug\krischan_kursova.exe
+C:\Dev\krischan_kursova\krischan_kursova\obj\Debug\krischan_kursova.pdb
+C:\Dev\krischan_kursova\krischan_kursova\bin\Debug\krischan_kursova.exe
+C:\Dev\krischan_kursova\krischan_kursova\bin\Debug\krischan_kursova.pdb
+C:\Dev\krischan_kursova\krischan_kursova\obj\Debug\krischan_kursova.csprojResolveAssemblyReference.cache
+C:\Dev\krischan_kursova\krischan_kursova\obj\Debug\MainWindow.g.cs
+C:\Dev\krischan_kursova\krischan_kursova\obj\Debug\App.g.cs
+C:\Dev\krischan_kursova\krischan_kursova\obj\Debug\krischan_kursova_MarkupCompile.cache
+C:\Dev\krischan_kursova\krischan_kursova\obj\Debug\krischan_kursova_MarkupCompile.lref
+C:\Dev\krischan_kursova\krischan_kursova\obj\Debug\MainWindow.baml
+C:\Dev\krischan_kursova\krischan_kursova\obj\Debug\krischan_kursova.g.resources
+C:\Dev\krischan_kursova\krischan_kursova\obj\Debug\krischan_kursova.Properties.Resources.resources
+C:\Dev\krischan_kursova\krischan_kursova\obj\Debug\krischan_kursova.csproj.GenerateResource.Cache
